@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false" android:drawable="@drawable/btnlwa_gold_loginwithamazon" android:color="@color/AliceBlue" />
+    <item android:state_pressed="true" android:drawable="@drawable/btnlwa_gold_loginwithamazon_pressed" android:color="@color/BurlyWood" />
+</selector>

@@ -1,0 +1,1 @@
+Replace this file with your API key from Amazon Developer Console.

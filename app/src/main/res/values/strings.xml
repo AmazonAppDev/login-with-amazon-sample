@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login with Amazon</string>
+    <string name="default_message">Welcome to Login with Amazon!\nIf this is your first time logging in, you will be asked to give permission for this application to access your profile data.</string>
+    <string name="login_button_content_description">"Button for authorization through Login with Amazon"</string>
+    <string name="login_with_amazon">Login with Amazon</string>
+    <string name="logout">Logout</string>
+    <string name="return_to_app">Return to App</string>
+    <string name="app_ID">amzn1.application-oa2-client.ad3cb76a78a84bbe9ba6cfda04dc6fc4</string>
+    <string name="menu_settings">Settings</string>
+</resources>
