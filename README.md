@@ -1,6 +1,5 @@
-# Login with Amazon Kotlin Example
-This project is a simple demonstration of Login with Amazon (LwA) SDK implementation on for below devices:
-- Amazon Appstore on Windows
+# Login with Amazon (LwA) example for Kotlin apps
+This project is a simple demonstration of [Login with Amazon (LwA) SDK](https://developer.amazon.com/docs/login-with-amazon/documentation-overview.html) implementation on for below devices:
 - Amazon Fire tablets
 - Amazon Fire TV's
 - Non Amazon Devices
@@ -14,23 +13,23 @@ This sample app demonstrates how to integrate 'Login with Amazon' in an Android 
 - **Responsive UI**: Optimized for both smartphones and tablets.
 
 ## Prerequisites
-To run this app, you'll need:
-- Android Studio latest.
-- An active Amazon Developer account.
-- Access to the Amazon LwA Mobile SDK [download here](https://developer.amazon.com/docs/apps-and-games/sdk-downloads.html#lwa).
-- Download Login with Amazon button [download here](https://developer.amazon.com/docs/login-with-amazon/button.html).
+To run this app, you'll need to do the following:
+- Install the latest version of [Android Studio](https://developer.android.com/studio).
+- Sign up for [Amazon Developer account](https://developer.amazon.com/docs/app-submission/manage-account-and-permissions.html#create_account). 
+- Download the [Amazon LwA Mobile SDK](https://developer.amazon.com/docs/apps-and-games/sdk-downloads.html#lwa).
+- Download the [Login with Amazon button](https://developer.amazon.com/docs/login-with-amazon/button.html).
 
 ## Setup Instructions
 ### Step 1: Clone the Repository
 Clone the project to your local machine: 
 
-`git clone https://github.com/<yourusername>/login-with-amazon-sample.git`
+`git clone https://github.com/AmazonAppDev/login-with-amazon-sample.git`
 
 ### Step 2: Amazon Developer Account Setup
 1. Sign in to the [Amazon Developer Console](https://developer.amazon.com/).
-2. Create a new security profile following these [insturctions](https://developer.amazon.com/docs/login-with-amazon/register-web.html).
-3. Create API key following these [instructions](https://developer.amazon.com/docs/login-with-amazon/register-android.html#add-android-settings).
-4. Copy the API key store in text file named as **api_key.txt** for later use.
+2. [Create a new security profile](https://developer.amazon.com/docs/login-with-amazon/register-web.html).
+3. [Create an API key](https://developer.amazon.com/docs/login-with-amazon/register-android.html#add-android-settings).
+4. Store the API key in a new text file named as **api_key.txt** for later use.
 
 ### Step 3: Configure the Project
 1. Open the project in Android Studio.
@@ -59,7 +58,7 @@ After launching the app, tap on the 'Login with Amazon' button. Enter your Amazo
 ## Get support
 If you found a bug or want to suggest a new [feature/use case/sample], please [file an issue](../../issues).
 
-If you have questions, comments, or need help with code, we're here to help:
+If you have questions or need help with code, make sure to ask in our Appstore developer community [Q&A category](https://community.amazondeveloper.com/c/amazon-appstore/appstore-questions/20). In addition, we are available at 
 - on X at [@AmazonAppDev](https://twitter.com/AmazonAppDev)
 - on Stack Overflow at the [amazon-appstore](https://stackoverflow.com/questions/tagged/amazon-appstore) tag
 
@@ -67,9 +66,7 @@ If you have questions, comments, or need help with code, we're here to help:
 Get the most up to date Amazon Appstore developer news, product releases, tutorials, and more:
 
 * 📣 Follow [@AmazonAppDev](https://twitter.com/AmazonAppDev)
-
 * 📺 Subscribe to our [Youtube channel](https://www.youtube.com/amazonappstoredevelopers)
-
 * 📧 Sign up for the [Developer Newsletter](https://m.amazonappservices.com/devto-newsletter-subscribe)
 
 ## Authors
