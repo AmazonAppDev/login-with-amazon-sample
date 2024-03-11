@@ -25,9 +25,9 @@ import com.amazon.identity.auth.device.api.authorization.ProfileScope
 import com.amazon.identity.auth.device.api.authorization.User
 import com.amazon.identity.auth.device.api.workflow.RequestContext
 
-class Amazon_Login : AppCompatActivity() {
+class AmazonLogin : AppCompatActivity() {
 
-    private val TAG: String = Amazon_Login::class.java.getName()
+    private val TAG: String = AmazonLogin::class.java.getName()
 
     private lateinit var profileText: TextView
     private lateinit var logoutBtn: Button
